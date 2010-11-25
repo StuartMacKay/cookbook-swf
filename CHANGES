@@ -1,0 +1,7 @@
+----------------------------------
+  Cookbook For Java, Version 1.0
+----------------------------------
+
+Version 1.0 is the first release for Transform 3.0 and Translate 3.0. It 
+contains all the examples from the previous 0.2 release which have been ported
+to use the new APIs.
