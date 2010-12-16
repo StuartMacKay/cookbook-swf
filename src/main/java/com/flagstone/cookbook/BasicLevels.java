@@ -60,7 +60,7 @@ public class BasicLevels {
     }
 
     public void createMovie(Movie movie) {
-        // The following code loads two pre-defined movie clips into the
+        // The following code loads two predefined movie clips into the
         // main movie. You can also set the target to be a web page or
         // frame.
 

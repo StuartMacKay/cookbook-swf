@@ -6,7 +6,7 @@
 	<version>1.0</version>
 
 	<name>cookbook</name>
-	<description>Cookbook contains working examples for the Transform SWF and Translate SWF libraries. </description>
+	<description>Cookbook contains working examples for the Transform SWF and Translate SWF libraries.</description>
 	<url>http://www.flagstonesoftware.com/</url>
 	<inceptionYear>2004</inceptionYear>
 
@@ -30,11 +30,16 @@
 		</developer>
 	</developers>
 	
-	<scm>
-		<connection>scm:svn:file:///C:/Repository/cookbook-java/trunk</connection>
-		<developerConnection>scm:svn:file:///C:/Repository/cookbook-java/trunk</developerConnection>
-		<url>file:///C:/Repository/cookbook-java/trunk</url>
-	</scm>
+	<issueManagement>
+		<system>GitHb</system>
+		<url>https://github.com/StuartMacKay/cookbook-swf/issues</url>
+	</issueManagement>
+
+    <scm>
+        <connection>scm:git:git@github.com:StuartMacKay/cookbook-swf.git</connection>
+        <url>scm:git:git@github.com:StuartMacKay/cookbook-swf.git</url>
+        <developerConnection>scm:git:git@github.com:StuartMacKay/cookbook-swf.git</developerConnection>  
+    </scm>
 
 	<dependencies>
 		<dependency>
@@ -145,5 +150,12 @@
 			</plugin>
 		</plugins>
 	</build>
+
+	<distributionManagement>
+		<site>
+			<id>flagstonesoftware.com</id>
+			<url>ftp://ftp.flagstonesoftware.com/public_html/cookbook/</url>
+		</site>
+	</distributionManagement>
 
 </project>

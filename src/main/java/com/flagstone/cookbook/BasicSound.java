@@ -1,6 +1,6 @@
 package com.flagstone.cookbook;
 /*
- * BasicSound.java ~
+ * BasicSound.java
  * Cookbook
  *
  * Copyright (c) 2001-2010 Flagstone Software Ltd. All rights reserved.

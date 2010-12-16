@@ -1,7 +1,7 @@
 package com.flagstone.cookbook;
 /*
  * BasicText.java
- * Cookbook ~
+ * Cookbook
  *
  * Copyright (c) 2001-2010 Flagstone Software Ltd. All rights reserved.
  *

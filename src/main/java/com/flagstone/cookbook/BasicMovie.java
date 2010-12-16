@@ -69,9 +69,9 @@ public class BasicMovie {
          * corner of the rectangle that encloses the area. The bounding
          * rectangle also defines the coordinate range for the x and y axes.
          * Here the coordinates for the x and y axes range from -4000 to +4000.
-         * A point with the coordinates (0,0) lies in the center of the screen.
+         * A point with the coordinates (0,0) lies in the centre of the screen.
          * If the coordinates of the corners were specified as (0,0) and (8000,
-         * 8000) the size of the screen is still the same however the center of
+         * 8000) the size of the screen is still the same however the centre of
          * the screen now lies at (4000,4000)
          */
         int xLower = -4000;
