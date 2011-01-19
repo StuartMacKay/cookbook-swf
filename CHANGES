@@ -1,7 +1,12 @@
 ----------------------------------
-  Cookbook For Java, Version 1.0
+  Cookbook For Java, Version ${project.version}
 ----------------------------------
 
-Version 1.0 is the first release for Transform 3.0 and Translate 3.0. It 
-contains all the examples from the previous 0.2 release which have been ported
-to use the new APIs.
+Added new examples:
+
+1. FindFrames - count the number of frames in a movie or movie clip.
+
+2. FindIdentifiers - different techniques for finding the highest unique
+   identifier used in a movie.
+
+3. FindLayers - find the highest layer number used in a movie or movie clip.

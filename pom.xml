@@ -3,7 +3,7 @@
 	<groupId>com.flagstone</groupId>
 	<artifactId>cookbook</artifactId>
 	<packaging>jar</packaging>
-	<version>1.0</version>
+	<version>1.1</version>
 
 	<name>cookbook</name>
 	<description>Cookbook contains working examples for the Transform SWF and Translate SWF libraries.</description>
